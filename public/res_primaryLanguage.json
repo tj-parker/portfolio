@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Cloud Ten",
+        "startDate": "2022",
+        "description": "My 201 final project I collaborated in. I was responsible for the JavaScript behind the flashcard feature as well as the affirmations.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p3.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/tj-parker/Cloud-Ten",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Cookie Stand",
+        "startDate": "2022",
+        "description": "201 assignment showcasing tables and form submittion, as well as some styling",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p3.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/tj-parker/cookie-stand",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +53,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Final Project",
+        "startDate": "2022",
+        "description": "My final project for 301. I haven't done it yet but I'm sure it'll be sick",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
