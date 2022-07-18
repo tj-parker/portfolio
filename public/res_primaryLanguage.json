@@ -15,7 +15,8 @@
         "startDate": "2022",
         "description": "My 201 final project I collaborated in. I was responsible for the JavaScript behind the flashcard feature as well as the affirmations.",
         "images": [
-          "images/portfolio/animal-shelter/p3.jpg"
+          "images/portfolio/animal-shelter/p3.jpg",
+          "images/portfolio/animal-shelter/p4.jpg"
         ],
         "url": "https://github.com/tj-parker/Cloud-Ten",
         "technologies": [
@@ -38,7 +39,8 @@
         "startDate": "2022",
         "description": "201 assignment showcasing tables and form submittion, as well as some styling",
         "images": [
-          "images/portfolio/photography/p3.jpg"
+          "images/portfolio/photography/p3.jpg",
+          "images/portfolio/photography/p4.jpg"
         ],
         "url": "https://github.com/tj-parker/cookie-stand",
         "technologies": [
@@ -57,7 +59,8 @@
         "startDate": "2022",
         "description": "My final project for 301. I haven't done it yet but I'm sure it'll be sick",
         "images": [
-          "images/portfolio/adventure/p3.jpg"
+          "images/portfolio/adventure/p3.jpg",
+          "images/portfolio/adventure/p4.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
